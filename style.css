@@ -1,12 +1,19 @@
 html 
 {font-family: Roboto, sans-serif;}
-h1 {color:blueviolet;
+h1 {color:rgb(43, 31, 201);
 margin-bottom: 0.5em;}
-h2 {color:rgb(147, 82, 207);
-    font-size: 1em;
+h2 {color:rgb(104, 97, 214);
+    font-size: 1.5em;
     margin-top: 0;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
+}
+.cv {
+    color:rgb(110, 55, 161);
 }
 
-
-
+  .textitalic {
+    font-style: oblique;
+  }
+  body {
+    background-color: #5897be63;
+  }
