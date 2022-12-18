@@ -17,3 +17,7 @@ h2 {color:rgb(104, 97, 214);
   body {
     background-color: #5897be63;
   }
+  #menu {line-height:20px;
+font-size: 15px;}
+
+.contacts {line-height:10px;}
