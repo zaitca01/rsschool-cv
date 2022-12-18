@@ -1,1 +1,12 @@
-add style.css
+html 
+{font-family: Roboto, sans-serif;}
+h1 {color:blueviolet;
+margin-bottom: 0.5em;}
+h2 {color:rgb(147, 82, 207);
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+
+
