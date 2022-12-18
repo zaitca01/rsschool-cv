@@ -1,0 +1,23 @@
+html 
+{font-family: Roboto, sans-serif;}
+h1 {color:rgb(43, 31, 201);
+margin-bottom: 0.5em;}
+h2 {color:rgb(104, 97, 214);
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 2em;
+}
+.cv {
+    color:rgb(110, 55, 161);
+}
+
+  .textitalic {
+    font-style: oblique;
+  }
+  body {
+    background-color: #5897be63;
+  }
+  #menu {line-height:20px;
+font-size: 15px;}
+
+.contacts {line-height:10px;}
